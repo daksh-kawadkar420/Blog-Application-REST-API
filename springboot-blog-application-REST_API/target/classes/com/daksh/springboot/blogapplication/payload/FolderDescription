@@ -1,0 +1,1 @@
+This folder is used for creating DTO(data transfer object) which will be used for returning as response by RestAPI to the user. 
