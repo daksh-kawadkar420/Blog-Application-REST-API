@@ -6,4 +6,3 @@ Skills : Java, SpringBoot, REST, Maven, Spring Security, JWT, Spring Data JPA (H
 2. Build REST API’s for Login and Signup.
 3. Implement  Pagination and Sorting in the API's.
 4. Implement Tests on REST API’s using Postman REST Client.
-5. Implements SwaggerUI with Rest API.
